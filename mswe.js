@@ -2,7 +2,7 @@
  *  麦斯威尔    vx小程序
  *  抓     jde.mtbcpt.com   任意包下的    需要值：body里的openId
  *  定时一天一次           
- *  ========= 青龙--配置文件 =========
+ *  ======== 青龙--配置文件 =========
  *  变量格式: export maisid=" "              记得删除格式中的空格 多个账号换行 或用 @ 分割
  *    如  export maisid='XXXXXXXXXXXXXXXX'
  *         export maichou='X'               /盲盒抽奖次数，默认为0，会扣20积分，自己悠着点
