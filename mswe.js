@@ -1,6 +1,7 @@
 /**
  *  麦斯威尔    vx小程序
- *  抓     jde.mtbcpt.com   任意包下的    需要值：body里的openId
+ *  抓包这个请求头   https://jde.mtbcpt.com/api/JDEMaxwellApi/GetOpenId    返回体里的openid，点击我的，每个号这个是唯一的，或者直接搜openid也能搜到任意包下的    
+ *                  需要值：body里的openId，只要等于=后面的字符串
  *  定时一天一次           
  *  ========= 青龙--配置文件 =========
  *  变量格式: export maisid=" "              记得删除格式中的空格 多个账号换行 或用 @ 分割
