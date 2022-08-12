@@ -14,7 +14,7 @@
  * ========= 青龙--配置文件 =========
  * 变量格式: export zhwl_data='X-SESSION-ID & X-REQUEST-ID @ X-SESSION-ID & X-REQUEST-ID '   ,多账号用 换行 或 @ 分割
  * 抓包      vapp.tmuyun.com , 找到 X-SESSION-ID , X-REQUEST-ID 即可
- * 
+ *           抓不到包的找这个     /api/user_mumber/account_detail   请求体里的  X-SESSION-ID , X-REQUEST-ID
  * By :Sky夜空 修改补充   大佬勿喷
  * ====================================
  * 原作者tg频道: https://t.me/yml2213_tg
