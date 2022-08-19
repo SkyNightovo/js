@@ -1,5 +1,6 @@
 /**
  *  西街    vx小程序
+ *  小程序地址：https://github.com/SkyNightovo/js/blob/main/picture/1.jpg
  *  抓  weixin.dflzm.com.cn   任意包下的  token  
  *  定时一天一次           
  *  ========= 青龙--配置文件 =========
