@@ -1,7 +1,7 @@
 /**
  *  西街    vx小程序
  *  小程序地址：https://github.com/SkyNightovo/js/blob/main/picture/1.jpg
- *  抓  weixin.dflzm.com.cn   任意包下的  token  
+ *  抓  weixin.dflzm.com.cn/sg/api.member/account      包下的  token  
  *  定时一天一次           
  *  ========= 青龙--配置文件 =========
  *  变量格式: export xijck="   "           记得删除格式中的空格 多个账号换行 或用 @ 分割
