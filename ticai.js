@@ -1,7 +1,7 @@
 /**
  *  题材    vx小程序    一天150+积分，撸视频会员
  *  
- *  小程序地址：https://github.com/SkyNightovo/js/blob/main/picture/48df868dba27fbb5253865437cd0520.png 
+ *  小程序地址：https://github.com/SkyNightovo/js/blob/main/picture/2f158388e25044e7752ea0963eb2a2a.png 
  * 
  *  抓  https://tcyjf.szticai.com/api/user/index   header里的token
  *    
