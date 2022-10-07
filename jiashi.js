@@ -7,7 +7,7 @@
  * 感谢所有测试人员
  * ========= 青龙--配置文件 =========
  * 变量格式: export jiascookie=' cookie '   多账号用 换行 或 @ 分割
- *       如 export jiascookie='sessionid=xxxxx;csrftoken=xxxxx'      其中的 ; 一定要带着
+ *       如  export jiascookie='sessionid=xxxxx;csrftoken=xxxxx'      其中的 ; 一定要带着，ck中不要有空格
  * 抓包   理财师话术保小程序   alphaservice.jsfund.cn/api/v1/users/me  , 找到 cookie 即可
  * 
  * 定时一天一次
