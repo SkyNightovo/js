@@ -5,10 +5,10 @@
  *  10-29     删除冗余，优化输出
  *  一天一次
  *
- *  抓    weixin.dflzm.com.cn   任意包下的body ，也是openid  
+ *  微信授权登录自己的用户名和手机号，抓https://weixin.dflzm.com.cn/tg-car-api/mini/carMasterVip/findByOpenId，里的body，放进去，或者是直接全局搜 openid 得到的那一串  
  *  定时一天一次           
  *  ========= 青龙--配置文件 =========
- *  变量格式: export dongfengck=" "              记得删除格式中的空格 多个账号换行 或用 @ 分割
+ *  变量格式: export dongfengck="  XXXXXX "              记得删除格式中的空格 多个账号换行 或用 @ 分割
  *   
  *  ck 理论永久
  *
